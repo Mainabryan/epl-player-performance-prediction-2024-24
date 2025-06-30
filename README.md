@@ -40,7 +40,7 @@ The dataset contains EPL player statistics for the 2024/2025 season with the fol
 
 ### 1.What kind of players score the most goals?
 
-![Screenshot 2025-06-30 091259.png](attachment:d832c41c-e3dc-4452-b794-484e57539928:Screenshot_2025-06-30_091259.png)
+![Screenshot 2025-06-30 091259.png](Screenshot 2025-06-30 091259.png)
 
 - **Forwards (FWD)** clearly have the highest number of goals on average. Their box is higher and more spread out, indicating more consistent goal scoring.
 - **Midfielders (MID)** come second. Some midfielders have surprisingly high goal tallies, suggesting roles like attacking midfielders or wingers.
